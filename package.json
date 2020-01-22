@@ -1,0 +1,24 @@
+{
+  "name": "Escalate",
+  "version": "1.0.0",
+  "description": "<br> Practice converting static HTML site into Wordpress theme",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtmtdrv/Escalate-WordpressTheme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtmtdrv/Escalate-WordpressTheme/issues"
+  },
+  "homepage": "https://rtmtdrv.github.io/Escalate-WordpressTheme/"
+}
